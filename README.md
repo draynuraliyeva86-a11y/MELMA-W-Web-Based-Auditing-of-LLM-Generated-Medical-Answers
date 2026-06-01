@@ -1,0 +1,2 @@
+# MELMA-W-Web-Based-Auditing-of-LLM-Generated-Medical-Answers
+MELMA-W is the web-based implementation of the MELMA framework, developed to operationalize MELMA-Q in a standardized and reproducible format. It converts the 30 MELMA-Q items into a rubric-driven scoring workflow and generates item-level scores, domain-level scores, scoring rationale, radar visualization, and downloadable model reports.
